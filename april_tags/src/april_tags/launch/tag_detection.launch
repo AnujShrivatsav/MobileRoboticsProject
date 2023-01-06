@@ -1,3 +1,0 @@
-<launch>
-  <node name = "Tag_detect" pkg = "april_tags" type = "tag_detection.py" output="screen"/> 
-</launch>
